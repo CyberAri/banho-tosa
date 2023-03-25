@@ -1,0 +1,19 @@
+body{
+    background: #82c7df;
+    margin: 0px;
+}
+header{
+    background-color: rgb27, 25, 94, 0.72 ;
+    display: grid;
+    grid-auto-flow: column;
+
+}
+.logo{
+    padding-left: 8rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+
+}
+title{
+
+}
